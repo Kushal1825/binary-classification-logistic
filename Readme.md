@@ -58,8 +58,8 @@ Columns include various computed features of cell nuclei (e.g., `radius_mean`, `
 
 ### 1. Clone this repository  
 ```bash
-git clone <your-repo-link>
-cd <your-repo-name>
+git clone https://github.com/Kushal1825/binary-classification-logistic.git
+cd binary-classification-logistic
 ```
 ### 2. Install dependencies
 ```bash
@@ -69,3 +69,4 @@ pip install -r requirements.txt
 ```bash
 python index.py
 ```
+
